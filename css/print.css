@@ -1,0 +1,4 @@
+@media print {
+	body {background: #FFFFFF;}
+	#single-sidebar, .single-arrow, nav, .single-next-slide, footer {display: none;}
+}

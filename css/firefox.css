@@ -1,0 +1,8 @@
+/* ===== FIREFOX ===== */
+@-moz-document url-prefix() { 
+	
+	.voices-byline {color: #A0A0A0;}
+	.storytelling-post img {background: #333;}
+	#storytelling img {width: 96.5%;}  
+	
+}

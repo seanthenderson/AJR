@@ -1,0 +1,3 @@
+[23-Jul-2013 11:13:25] PHP Fatal error:  Call to undefined function  get_header() in /home/screener/public_html/ajr/wp-content/themes/AJR-theme/news.php on line 1
+[23-Jul-2013 11:15:44] PHP Fatal error:  Call to undefined function  get_header() in /home/screener/public_html/ajr/wp-content/themes/AJR-theme/category-news.php on line 1
+[24-Jul-2013 09:12:41] PHP Fatal error:  Call to undefined function  get_header() in /home/screener/public_html/ajr/wp-content/themes/AJR-theme/category-news.php on line 1
